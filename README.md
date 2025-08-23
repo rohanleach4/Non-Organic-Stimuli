@@ -1,5 +1,4 @@
 # Non-Organic-Stimuli (N-OS)
-# Non-Organic Stimuli (N-OS)
 
 ### This is a white paper proposing the use and adoption of N-OS.
 
